@@ -1,0 +1,9 @@
+{
+	"name": "CxScenarios-ADF1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "361aa272-8760-4a4b-97f6-8a314b1f41d2",
+		"tenantId": "43639f2f-b1f5-47b7-a255-32c05eaec334"
+	}
+}
